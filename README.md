@@ -18,4 +18,9 @@ Additionally, the project includes a basic form with a single input field and a 
 - Navigation Menu: A horizontal menu with three links for easy navigation.
  # Files Included
 * index.html - The main HTML file for the webpage. 
-/ styles.css - The CSS file for styling the webpage.
++ styles.css - The CSS file for styling the webpage.
+
+ ## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+

@@ -1,1 +1,21 @@
-## Live website:- [file:///C:/Users/91903/OneDrive/Desktop/New%20folder/index.html#home](https://coruscating-daifuku-6acd4b.netlify.app/)
+## Live Demo:- [file:///C:/Users/91903/OneDrive/Desktop/New%20folder/index.html#home](https://coruscating-daifuku-6acd4b.netlify.app/)
+
+### Simple Webpage Project
+## Description
+This project includes a simple webpage designed using HTML and CSS. The webpage features:
+
+- A heading
++ A paragraph
+- An image
+  
+Additionally, the project includes a basic form with a single input field and a submit button, and a simple navigation menu with three links.
+
+## Features
+- Heading: Displays a prominent heading at the top of the page.
+/ Paragraph: Provides a section for descriptive text.
+- Image: Displays an image on the webpage.
++ Form: Includes a form with an input field and a submit button.
+- Navigation Menu: A horizontal menu with three links for easy navigation.
+ # Files Included
+* index.html - The main HTML file for the webpage. 
+/ styles.css - The CSS file for styling the webpage.
